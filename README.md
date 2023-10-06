@@ -12,3 +12,9 @@ Screenshot: Successfully finished task and downloaded Docker
 # Activity 3: Getting things ready locally
 Screenshot: Successfully ran updated Lab 1 code to ensure the code base works well.
 ![Screenshot 2023-10-05 at 10 19 49 PM](https://github.com/niishaaa/ECE444-F2023-Lab1/assets/98194794/37338b7a-efd1-40e9-9e6f-200c8d09e5d2)
+
+# Activity 4: Building and running the docker image locally
+Screenshot (A): Log message for the commands used
+![Screenshot 2023-10-05 at 10 46 21 PM](https://github.com/niishaaa/ECE444-F2023-Lab1/assets/98194794/0a1a896b-6d6d-4bf3-96f1-ba71823bc757)
+  Screenshot (B): Running application on http://localhost:3000
+![Screenshot 2023-10-05 at 10 46 45 PM](https://github.com/niishaaa/ECE444-F2023-Lab1/assets/98194794/0ed676b8-0879-48a0-a89e-c3e17bf9c552)
